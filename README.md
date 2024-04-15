@@ -1,3 +1,3 @@
 # example-portfolio-site
 
-Was used BEM-methodology and Grids
+Used BEM-methodology and Grids
