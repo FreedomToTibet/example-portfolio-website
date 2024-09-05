@@ -1,3 +1,3 @@
-# example-portfolio-site
+## portfolio site example
 
-Used BEM-methodology and Grids
+### BEM methodology and CSS Grid were used, hamburger button for the menu.
